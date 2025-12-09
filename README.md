@@ -34,7 +34,7 @@ En utilisant l’application JourAnime :
 5. JourAnime peut cesser de fonctionner si TikTok modifie ses API ou accès.
 6. L’application est fournie "telle quelle" et ne donne aucune garantie.
 
-Pour toute question : **contact@jouranime.app**
+Pour toute question : **jouranime@gmail.com**
 
 ---
 
